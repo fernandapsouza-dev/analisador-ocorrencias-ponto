@@ -102,7 +102,7 @@ def validar_colunas(dados: pd.DataFrame) -> None:
 
 def executar() -> None:
     """Lê a entrada, analisa os registros e grava somente as inconsistências."""
-    dados = pd.read_csv(ARQUIVO_ENTRADA, sep=";", dtype=str)
+    dados = pd.read_csv(ARQUIVO_ENTRADA, sep=None, engine="python", dtype=str)
     validar_colunas(dados)
 
     resultados: list[dict[str, str]] = []
