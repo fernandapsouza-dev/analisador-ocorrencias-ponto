@@ -1,0 +1,6 @@
+﻿funcionario;data;ocorrencias
+Bruno Exemplo;25/08/2026;Marcação ausente: retorno do almoço | Quantidade de marcações: 3 de 4
+Carla Modelo;25/08/2026;Horários duplicados: 12:00 (saída para almoço e retorno do almoço)
+Diego Ficticio;25/08/2026;Ordem cronológica inconsistente
+Elisa Demonstracao;25/08/2026;Marcação ausente: saída | Quantidade de marcações: 3 de 4
+Fabio Simulado;25/08/2026;Formato de horário inválido: entrada (8h00)

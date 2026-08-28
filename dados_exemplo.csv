@@ -1,0 +1,8 @@
+funcionario;data;entrada;saida_almoco;retorno_almoco;saida
+Ana Teste;25/08/2026;08:00;12:00;13:00;17:00
+Ana Teste;26/08/2026;08:03;12:01;13:02;17:06
+Bruno Exemplo;25/08/2026;08:05;12:00;;17:10
+Carla Modelo;25/08/2026;07:58;12:00;12:00;17:02
+Diego Ficticio;25/08/2026;08:10;13:00;12:30;17:15
+Elisa Demonstracao;25/08/2026;08:00;12:05;13:05;
+Fabio Simulado;25/08/2026;8h00;12:00;13:00;17:00
